@@ -100,5 +100,9 @@ namespace GUI
         {
             MessageBox.Show("FASdfs");
         }
+        public void Lo()
+        {
+            MessageBox.Show("Dsdad");
+        }
     }
 }
