@@ -96,5 +96,9 @@ namespace GUI
             ser.XoaNhanVien(IdChon);
             Loaddata(ser.GetAllNhanVien(), ser.GetAllCongTy());
         }
+        public void Load()
+        {
+            MessageBox.Show("FASdfs");
+        }
     }
 }
